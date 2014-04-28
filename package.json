@@ -1,0 +1,23 @@
+{
+  "name": "privilegeprofile",
+  "version": "0.0.0",
+  "description": "privilegeprofile ================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/privilegesoftwaredoundation/privilegeprofile.git"
+  },
+  "author": "Privilege Software Foundation",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/privilegesoftwaredoundation/privilegeprofile/issues"
+  },
+  "homepage": "https://github.com/privilegesoftwaredoundation/privilegeprofile",
+  "dependencies": {
+    "express": "~4.1.1"
+  }
+}
